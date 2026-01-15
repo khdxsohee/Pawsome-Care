@@ -1,0 +1,7 @@
+{
+  "name": "PawsomeCare",
+  "description": "An elegant, all-in-one pet care mobile application. Track health metrics, set reminders, and consult an AI pet expert for personalized advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
