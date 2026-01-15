@@ -72,7 +72,9 @@ Designed with a "Modern & Clean" philosophy, featuring:
 
 ## 📸 Preview
 
-*(Add your screenshots here once you host the app or take captures!)*
+<img width="239" height="481" alt="image" src="https://github.com/user-attachments/assets/9002f471-effb-481d-99f4-2e6b8763d895" />
+<img width="246" height="480" alt="image" src="https://github.com/user-attachments/assets/3d110dbb-e99c-4c90-a8d9-4c6719d00694" />
+<img width="247" height="477" alt="image" src="https://github.com/user-attachments/assets/c31e83a4-7022-4df4-8005-5383e904ccb0" />
 
 ---
 
